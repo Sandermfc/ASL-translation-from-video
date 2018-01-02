@@ -2,7 +2,6 @@
 Translates, from a video, the ASL digits from 0-9 with an approximate accuracy of 70%
 
 This project was done for the INFO4024 computer vision class over the course of 3 months.
-An explanation of the methodologies and approach used can be seen in the included report.
 
 Future plans include:
 	- Being able to detect characters using SIFT/SURF and an SVM model trained on each sign.
